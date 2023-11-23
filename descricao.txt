@@ -1,0 +1,15 @@
+Registro e login de usuários.
+Dashboard do usuário com as suas tarefas pendentes e concluídas.
+Adição, edição e exclusão de tarefas.
+Priorização de tarefas.
+Status de tarefas (pendente, em andamento, concluída).
+Pesquisa e filtro de tarefas por palavra-chave, prioridade e status.
+Gráficos e estatísticas sobre as tarefas concluídas.
+Possibilidade de atribuir tarefas a outros usuários.
+Notificações por e-mail sobre tarefas atribuídas e prazos próximos.
+Utilização de JSON para troca de dados entre o front-end e o back-end.
+Utilização de orientação a objetos no desenvolvimento do site.
+Utilização de jQuery para manipulação do DOM e criação de animações.
+Além disso, o site pode contar com um banco de dados MySQL para armazenamento das informações das tarefas e dos usuários. As informações das tarefas podem incluir título, descrição, prazo, prioridade, status e responsável. Já as informações dos usuários podem incluir nome, e-mail, senha e lista de tarefas atribuídas.
+
+Com essas funcionalidades, o site pode ser bastante útil para gerenciamento de tarefas em equipe, em projetos pessoais ou profissionais. E o uso de PHP, JavaScript, jQuery e orientação a objetos pode proporcionar um aprendizado completo e aplicável em diversas outras aplicações web.
